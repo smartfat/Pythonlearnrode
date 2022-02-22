@@ -1,0 +1,9 @@
+使用pycharm编辑python代码时，输入2+2，点击run，没有任何输出结果
+需要输入print（2+2），这样就可以显示正确的结果了
+
+int 整数型
+float 浮点型
+strs 字符串
+
+字符串的连接
+sequence 序列
